@@ -1,0 +1,9 @@
+[BASIC]
+good-names=
+    i,
+    e,
+    logger,
+
+[MASTER]
+disable=
+    C0114, # missing-module-docstring
